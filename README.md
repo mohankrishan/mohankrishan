@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohankrishan
-- 👀 I’m interested in learn coading
+- 👀 I’m interested in learn coding
 - 🌱 I’m currently learning data structure and algoithm bootcamp
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
